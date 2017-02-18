@@ -1,10 +1,5 @@
 ﻿<Properties StartupConfiguration="{6EFA77D3-7EAF-4050-8002-F90B45609DA9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
-    <Files>
-      <File FileName="Program.cs" Line="22" Column="1" />
-      <File FileName="Startup.cs" Line="28" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x64" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
